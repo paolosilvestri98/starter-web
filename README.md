@@ -9,3 +9,5 @@ This is a simple web site project
 Sample website with plenty of files for demos
 
 ## Deployment
+
+This web project is created to fulfill our dreams (learning git)!
