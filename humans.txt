@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Paolo Silvestri paolo@ciao
 
 # THANKS
 
