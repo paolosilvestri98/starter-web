@@ -15,3 +15,7 @@ Provide simple examples on git training
 This web project is created to fulfill our dreams (learning git)!
 
 I hope it will be reality
+
+### Copyright
+
+2022 Git.Training.
