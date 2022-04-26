@@ -16,6 +16,10 @@ This web project is created to fulfill our dreams (learning git)!
 
 I hope it will be reality
 
+## How To Contribute
+
+Please fork this repository and then issue Pull requests for review
+
 ### Copyright
 
 2022 Git.Training.
