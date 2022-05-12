@@ -1,3 +1,5 @@
 # robotstxt.org/
 
+Row for testing merge!
+
 User-agent: *
