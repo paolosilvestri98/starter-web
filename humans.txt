@@ -14,7 +14,7 @@ Please leave a review if you like this course
 
     HTML5, CSS3
     jQuery, Modernizr
-    Git
+    Git and More
 
     #New
     Hi, this is the first modified section
